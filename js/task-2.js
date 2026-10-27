@@ -36,6 +36,6 @@ images.forEach(image => {
 
   li.append(img);
   list.append(li);
-
-  gallery.append(list);
 });
+
+gallery.append(list);
